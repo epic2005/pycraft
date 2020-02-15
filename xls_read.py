@@ -13,3 +13,5 @@ print sheets[0][1][(0, 2)]
 print sheets[0][1][(1, 0)]
 print sheets[0][1][(2, 0)]
 print sheets[0][1][(3, 0)]
+
+print sheets[0][1][(2, 0)]
